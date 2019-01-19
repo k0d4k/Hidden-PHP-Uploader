@@ -33,6 +33,8 @@ Or any other name you want . `But I suggest these :)`
 ><img src="https://i.imgur.com/yFN5UTq.png">
 ### Litespeed-Uploader
 ><img src="https://i.imgur.com/Gspzw2o.png">
+### Nginx-Uploader
+><img src="https://i.imgur.com/WYsDQ0I.png">
 ### Contact
  
 Telegram-Channel : `@WebHackers`
