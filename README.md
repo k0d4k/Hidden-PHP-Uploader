@@ -1,4 +1,4 @@
-<h1>PHP Uploader By Kodak</h1>
+<h1>Hidden PHP Uploader By Kodak</h1>
 
 >Change the file name to one of the following names, 
 ( ***If one of these names were in the host, use the other one*** ):
